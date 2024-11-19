@@ -1,0 +1,6 @@
+tkinter - библиотека для создания приложений с графическим интерфейсом.
+tkcalendar
+messagebox, ttk
+datetime
+json
+Os
