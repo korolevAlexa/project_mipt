@@ -1,0 +1,37 @@
+[
+    {
+        "mood": 2,
+        "comment": "Бу, испагались, это пятница 13-ое!!!",
+        "timestamp": "2024-11-01 20:22:47",
+        "user_name": null
+    },
+    {
+        "mood": 1,
+        "comment": "Чинаааазеес",
+        "timestamp": "2024-11-09 17:02:17",
+        "user_name": null
+    },
+    {
+        "mood": -1,
+        "comment": "Хочу спать(((",
+        "timestamp": "2024-11-11 04:30:53",
+        "user_name": null
+    },
+    {
+        "mood": 0,
+        "comment": "Сдал коллок на отл 8",
+        "timestamp": "2024-11-13 19:12:29",
+        "user_name": null
+    },
+    {
+        "mood": 0,
+        "comment": "Сделал проект по питону",
+        "timestamp": "2024-11-15 19:12:29",
+        "user_name": null
+    },
+    {
+        "mood": 2,
+        "comment": "топчик",
+        "timestamp": "2024-11-19 20:30:30"
+    }
+]
