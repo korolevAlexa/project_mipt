@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from user import MoodTracker
+from .user import MoodTracker
 
 class NewEntryWindow:
     def __init__(self, root, mood_tracker):

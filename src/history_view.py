@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from user import MoodTracker
+from .user import MoodTracker
 from datetime import datetime
 
 class HistoryWindow:

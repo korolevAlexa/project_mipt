@@ -1,4 +1,4 @@
-tkinter - библиотека для создания приложений с графическим интерфейсом.
+tkinter
 tkcalendar
 messagebox, ttk
 datetime

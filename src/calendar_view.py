@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkcalendar import Calendar
 from tkinter import messagebox, ttk
-from user import MoodTracker
+from .user import MoodTracker
 
 class CalendarWindow:
     def __init__(self, root, mood_tracker):

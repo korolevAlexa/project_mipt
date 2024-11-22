@@ -1,8 +1,8 @@
 import tkinter as tk
-from user import MoodTracker
-from new_entry import NewEntryWindow
-from calendar_view import CalendarWindow
-from history_view import HistoryWindow
+from .user import MoodTracker
+from .new_entry import NewEntryWindow
+from .calendar_view import CalendarWindow
+from .history_view import HistoryWindow
 
 class MoodTrackerApp:
     def __init__(self, root):
@@ -59,7 +59,3 @@ class MoodTrackerApp:
             self.active_window.window.destroy()
         self.active_window = None
 
-# Основное окно приложения
-root = tk.Tk()
-app = MoodTrackerApp(root)
-root.mainloop()
